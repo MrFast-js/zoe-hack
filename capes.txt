@@ -8,3 +8,4 @@ e5e92ffb-2b88-4a25-a385-e7a1fdd1702e catcape
 f319e106-d7f2-47bf-a2b5-e7d0222a2569 black
 eeaad5a2-196c-49ae-b6b1-03f95c6cb9d8 fobus
 ed40af77-488b-45e8-8166-0011e78f7433 sword
+b8aa1638-708b-45dd-abee-d786863da87a zoe
