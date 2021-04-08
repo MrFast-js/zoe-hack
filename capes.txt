@@ -11,4 +11,4 @@ ed40af77-488b-45e8-8166-0011e78f7433 sword
 b8aa1638-708b-45dd-abee-d786863da87a nuke
 f3438f95-5377-4c8d-b0af-9e3ffde15045 zoe
 68768cf4-4e82-4ef4-bcdd-6b5ba695a9d4 lunar
-7ecf5f5e-ddfe-4411-b923-c89fc6c90fc0 nuke
+7ecf5f5e-ddfe-4411-b923-c89fc6c90fc0 zoe
